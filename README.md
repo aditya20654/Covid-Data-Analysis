@@ -2,12 +2,12 @@ COVID-19 Data Exploration
 This project involves exploring COVID-19 data to analyze infection rates, death counts, and vaccination progress globally. The analysis leverages SQL techniques including joins, CTEs, temp tables, window functions, and aggregate functions to derive meaningful insights.
 
 Skills Used:
-Joins
-Common Table Expressions (CTEs)
-Temporary Tables
-Window Functions
-Aggregate Functions
-Creating Views
+Joins,
+Common Table Expressions (CTEs),
+Temporary Tables,
+Window Functions,
+Aggregate Functions,
+Creating Views,
 Converting Data Types
 Key Queries:
 Initial Data Exploration: Fetch basic data on COVID-19 cases and deaths, ordered by location and date.
