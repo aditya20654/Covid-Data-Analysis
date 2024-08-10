@@ -12,25 +12,25 @@ Converting Data Types
 
 Key Queries:
 
-Initial Data Exploration: 
+Initial Data Exploration
 
-Case vs Death Analysis: 
+Case vs Death Analysis
 
-Population vs Cases: 
+Population vs Cases
 
-Infection Rate by Country: 
+Infection Rate by Country 
 
-Death Count Analysis:
+Death Count Analysis
 
-Continental Analysis:
+Continental Analysis
 
-Global Trends: 
+Global Trends
 
-Vaccination Data:
+Vaccination Data
 
-Rolling Vaccination Data:
+Rolling Vaccination Data
 
-Data Persistence:
+Data Persistence
 
 Views and Tables Created:
 
