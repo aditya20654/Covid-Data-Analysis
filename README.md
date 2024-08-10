@@ -29,9 +29,13 @@ Global Trends:
 Vaccination Data:
 
 Rolling Vaccination Data:
+
 Data Persistence:
 
 Views and Tables Created:
+
 PercentPopulationVaccinationdata View: Stores cumulative vaccination data for future visualizations.
+
 Temporary Table #PercentPopulationVaccinated: Used for intermediate calculations related to vaccination coverage.
+
 This analysis provides a comprehensive overview of COVID-19 impacts and vaccination progress, utilizing SQL for effective data manipulation and exploration.
