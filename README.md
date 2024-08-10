@@ -9,8 +9,11 @@ Window Functions,
 Aggregate Functions,
 Creating Views,
 Converting Data Types
+
 Key Queries:
+
 Initial Data Exploration: Fetch basic data on COVID-19 cases and deaths, ordered by location and date.
+
 Case vs Death Analysis: Calculate the death percentage relative to total cases for specific locations.
 Population vs Cases: Determine the percentage of the population infected by COVID-19.
 Infection Rate by Country: Identify countries with the highest infection rates relative to their population.
